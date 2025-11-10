@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Satisfações, Me chamo Janfrancisco, sou natural de Manaus-AM 💻
+Olá! Satisfações. Me chamo Janfrancisco, sou natural de Manaus-AM 💻
 
 Desenvolvimento é o meu mundo. Sou um desenvolvedor Fullstack autodidata, daqueles que não espera o convite para meter a mão na massa e aprender a tecnologia que for preciso.
 
